@@ -199,22 +199,7 @@ img{
     0 0 0 80px rgba(212,160,23,.018);
 }
 
-.slide-two{
-  background:linear-gradient(
-    120deg,
-    #0a0a0a,
-    #1b160c 55%,
-    #090909
-  );
-}
 
-.slide-three{
-  background:linear-gradient(
-    120deg,
-    #080808 20%,
-    #151515 70%,
-    #080808
-  );
 }
 
 .hero-content{
