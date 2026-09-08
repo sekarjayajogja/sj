@@ -1080,8 +1080,8 @@ blockquote footer{
 }
 
 .footer-logo img {
-  width: 58px;
-  height: 58px;
+  width: 150px;
+  height: 150px;
   object-fit: contain;
 }
 
