@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#181818"/><stop offset="1" stop-color="#292929"/>
+    </linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="600" height="520" rx="28" fill="url(#bg)"/>
+  <path d="M175 132 L240 82 L300 122 L360 82 L425 132 L385 218 L358 184 L358 424 L242 424 L242 184 L215 218 Z"
+        fill="#f5f5f5" stroke="#D4A017" stroke-width="4" filter="url(#shadow)"/>
+  <path d="M262 104 Q300 145 338 104" fill="none" stroke="#D4A017" stroke-width="5"/>
+  <text x="300" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111111" letter-spacing="2">PREMIUM</text>
+  <text x="300" y="348" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#D4A017" letter-spacing="4">SEKAR JAYA</text>
+</svg>
