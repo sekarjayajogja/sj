@@ -191,12 +191,12 @@ img{
     radial-gradient(
       circle at 78% 30%,
       rgba(212,160,23,.22),
-      transparent 28%
+      transparent 99%
     ),
     linear-gradient(
       105deg,
       #080808 0%,
-      rgba(8,8,8,.88) 46%,
+      rgba(8,8,8,.88) 100%,
       rgba(8,8,8,.38) 100%
     );
 }
