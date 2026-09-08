@@ -1103,23 +1103,23 @@ blockquote footer{
 /* ALAMAT */
 
 .footer-address {
-  margin-top: 35px;
+  margin-top: 25px;
   max-width: 600px;
 }
 
 .footer-address h4,
 .footer-social h4 {
-  margin: 0 0 16px;
+  margin: 0 0 14px;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
-  letter-spacing: .5px;
+  letter-spacing: .2px;
 }
 
 .footer-address p {
-  margin: 0 0 16px;
+  margin: 0 0 14px;
   color: #aaa;
   font-size: 14px;
-  line-height: .5;
+  line-height: .2;
 }
 
 .footer-address strong {
