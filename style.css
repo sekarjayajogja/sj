@@ -1218,3 +1218,63 @@ blockquote footer{
   }
 
 }
+
+/* =====================================================
+   FLOATING WHATSAPP
+   ===================================================== */
+
+.floating-wa {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+
+  width: 58px;
+  height: 58px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #25D366;
+  color: #ffffff;
+
+  border-radius: 50%;
+
+  text-decoration: none;
+
+  box-shadow: 0 8px 25px rgba(0,0,0,.25);
+
+  z-index: 999;
+
+  transition:
+    transform .25s ease,
+    box-shadow .25s ease;
+}
+
+.floating-wa:hover {
+  transform: translateY(-4px) scale(1.05);
+  box-shadow: 0 12px 30px rgba(0,0,0,.3);
+}
+
+.floating-wa svg {
+  width: 30px;
+  height: 30px;
+  fill: currentColor;
+}
+
+@media (max-width: 768px) {
+
+  .floating-wa {
+    right: 18px;
+    bottom: 18px;
+
+    width: 54px;
+    height: 54px;
+  }
+
+  .floating-wa svg {
+    width: 28px;
+    height: 28px;
+  }
+
+}
