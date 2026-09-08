@@ -1109,9 +1109,9 @@ blockquote footer{
 
 .footer-address h4,
 .footer-social h4 {
-  margin: 0 0 18px;
+  margin: 0 0 16px;
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   letter-spacing: .5px;
 }
 
@@ -1119,7 +1119,7 @@ blockquote footer{
   margin: 0 0 16px;
   color: #aaa;
   font-size: 14px;
-  line-height: 1.8;
+  line-height: .5;
 }
 
 .footer-address strong {
